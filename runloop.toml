@@ -1,0 +1,3 @@
+[module]
+path = "./backend/coder"
+name = "bot"
