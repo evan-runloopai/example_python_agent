@@ -1,2 +1,1 @@
-openai==1.14.3
 runloop==0.0.28
